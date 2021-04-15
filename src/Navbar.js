@@ -11,7 +11,7 @@ const Navbar = () => {
                     <a href="#contact" className="class-link">Contact Us</a>
                 </div>
             </nav>
-            <a href="https://rzp.io/l/tR3rsFi" className="donate-button"  >DONATE</a>
+            <a href="https://rzp.io/l/tR3rsFi" className="donate-button">DONATE</a>
         </div> 
     );
 }
