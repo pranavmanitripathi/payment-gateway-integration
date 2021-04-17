@@ -23,12 +23,11 @@
   
 }
 .navbar {
-  
   display: flex;
   align-items: center;
   margin: 0px 5px;
-  
 }
+
 .logo-image{
   margin-left: 20px;
   /* margin-right: 700px; */
@@ -107,7 +106,6 @@
   border-radius: 5px;
 }
 .donate-button {
-  
   background-color:#f58b13;
   border-style: solid;
   border-radius: 5px;
